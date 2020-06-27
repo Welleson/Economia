@@ -1,0 +1,72 @@
+.background01{
+    background-color: #F7F2E0;
+}
+.background02{
+    background-color: #D8D8D8;
+}
+
+
+.nav-link{
+    font-size: 24px;
+}
+
+.dimensao{
+    height: 350px;
+    width: 100%;  
+}
+
+.texto01{
+    padding-top: 200px;
+    padding-left: 50px;   
+}
+
+.texto02{
+    padding-top: 200px;
+    padding-right: 50px;
+}
+
+.texto03{
+    font-size: 12px;
+}
+
+.texto04{
+    padding-top: 50px;
+}
+
+.texto05{
+    margin-top: 50px;
+}
+
+.imagenscfg01{
+    padding-right: 30px;
+}
+
+.imagenscfg02{
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
+.imagenscfg03{
+    padding-top: 125px;
+}
+
+.imagenscfg04{
+    padding-left: 100px;
+}
+
+.imagenscfg05{
+    margin-bottom: 60px;
+}
+
+.figurecfg01{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.fontecfg01{
+    font-size: 15px;
+    font-family: Impact;
+}
+
+
+/*Embaçar a imagem*/
